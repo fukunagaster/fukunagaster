@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fukunagaster
-- 👀 I’m interested in enbedded device and IOT systems.
+- 👀 I’m interested in enbedded devices and IOT systems.
 - 🌱 I’m currently learning how to use GitHub for training coding.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
